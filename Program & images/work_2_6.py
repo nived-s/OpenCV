@@ -29,5 +29,6 @@ while (True):
 	if ch & 0xFF == ord('q'):
 		break
 
+
 cap.release()
 cv2.destroyAllWindows()
